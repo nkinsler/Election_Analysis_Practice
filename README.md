@@ -59,9 +59,10 @@ The script used to determine the Colorado election can be utilized for any elect
   - Example:
     - We would set each county participating with a set number of sets.
     - Such as
-      - Jefferson_seats = 5 seats
-      - Denver_seats = 75 seats
+      - Jefferson_seats = 10 seats
+      - Denver_seats = 17 seats
+      - Arapahoe_seats = 8 seats
     - We would determine the winner of each county by using the code with a modification to run it for each county.
     - Once the results for each county are determined we would add the code to assign the seats to each county winner.
     - Finally, we would determine the seat winners off the sum of the seats won.
- 
+ Both examples above explain how the given code can be modified and applied to other election types.
